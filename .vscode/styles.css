@@ -1,0 +1,97 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 0;
+}
+
+h2 {
+    margin-bottom: 30px;
+}
+
+/* Skills Section */
+#skills {
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.skills-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-list ul li {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Experience Section */
+#experience {
+    background-color: #e6e6e6;
+}
+
+.experience-item {
+    margin-bottom: 30px;
+}
+
+.experience-item h3 {
+    margin-bottom: 10px;
+}
+
+.experience-item h4 {
+    margin-top: 0;
+    font-weight: normal;
+}
+
+/* Projects Section */
+#projects {
+    background-color: #f2f2f2;
+}
+
+.project {
+    margin-bottom: 30px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
